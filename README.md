@@ -1,7 +1,7 @@
 # blender_info
 Blenderや3Dソフトウェアで使えるアドオンやテクスチャサイトをまとめておく。
 
-
+https://github.com/Ratescale/spaceA/issues/9
 ### テクスチャがダウンロードできるサイト
 - Textures.com https://www.textures.com/library
 - Poly Haven https://polyhaven.com/
