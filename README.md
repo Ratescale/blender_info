@@ -2,6 +2,12 @@
 Blenderや3Dソフトウェアで使えるアドオンやテクスチャサイトをまとめておく。
 
 https://github.com/Ratescale/spaceA/issues/9
+
+
+### Nodeの概念などが説明されている資料
+- Blender nodeについての資料 https://drive.google.com/file/d/13Tf0tHEGaNKQvUu7tklX0GMDtqJ4Y1k3/view?usp=drive_link
+
+
 ### テクスチャがダウンロードできるサイト
 - Textures.com https://www.textures.com/library
 - Poly Haven https://polyhaven.com/
